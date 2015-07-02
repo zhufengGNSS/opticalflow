@@ -5,7 +5,7 @@ Welcome to visit my Github!
 
 This project is a solution for Assignment 3 Optical Flow Estimation of the course Image Processing and Computer Vision (ENGG 5104, CUHK, 2015 Spring: http://www.cse.cuhk.edu.hk/engg5104). In this project, I implement an algorithm solving the optical flow map (u,v) between two image frames using Horn-Schunck Method.
 
-For more information about the principle and experimental result of this project, please refer to my report: http://izhengfan.github.io/opticalflow.html
+For more information about the principle and experimental result of this project, please refer to my report: http://izhengfan.github.io/blog/2015/03/25/optical-flow/
 
 
 How to run my code:
